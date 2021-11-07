@@ -34,13 +34,13 @@ date:   2021-11-05 06:12:37 +1100
 * Citadel 
 * Jump Trading
 * SIG (Susqehanna)
+* DRW
 
 Other Quant Trading or Prop Trading firms e.g. Jane Street, Two Sigma etc. have to look for APAC (Shanghai, Hong Kong, Singapore)
 
 **Botique/Less Established**
 
 * Tibra Capital (Sus activity in like 2k16 though they stole code?)
-* DRW
 * Eclipse Trading
 * Vivienne Court
 * Oxford Knight

@@ -45,7 +45,6 @@ Other Quant Trading or Prop Trading firms e.g. Jane Street, Two Sigma etc. have 
 * Vivienne Court
 * Oxford Knight
 * Maven Securities
-* Star Beta
 * Data processors
 
 Just examples.... Many more if you just google algorithmic trading, prop trading, trading developer, quant developer etc. lots of startups
@@ -55,6 +54,7 @@ Just examples.... Many more if you just google algorithmic trading, prop trading
 * Crypto.com
 * Binance
 * Lots of cryptocurrency trading start ups not sure if safe to work at though lol pay is competitive though
+* Lots of dodgy prop trading shops like star beta not sure if safe 
 
 ## Finance ##
 **Too many to list here are a few examples**
